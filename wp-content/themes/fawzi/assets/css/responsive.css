@@ -1,0 +1,1929 @@
+/**
+ * VictorThemes Styling
+*/
+@media screen and (max-width:1799px) {
+	/* Fwzi About Page CSS */
+	.difference-wrap-title {
+		padding-bottom: 10px;
+	}
+	.difference-item {
+		padding-top: 15px;
+	}
+}
+
+@media screen and (max-width:1270px) {
+	/* Fwzi About Page CSS */
+	.fwzi-difference .align-column-wrap {
+		display: block;
+	}
+	.fwzi-difference .column-item {
+		display: block;
+		width: auto;
+	}
+	.difference-wrap {
+		float: none;
+		width: auto;
+		padding: 80px;
+	}
+	.fwzi-difference .fwzi-image {
+		text-align: center;
+	}
+	.fwzi-difference .fwzi-image img {
+		width: auto;
+	}
+	.difference-item {
+		width: auto;
+	}
+}
+
+@media screen and (max-width:1270px) {
+	.fwzi-seo-books .row {
+    margin: 0;
+	}
+}
+
+@media screen and (max-width:1199px) {
+	/* Fwzi Normal CSS */
+	.fwzi-container {
+		width: auto;
+	}
+	.carousel {
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+	.nav > li > a {
+		padding: 10px 18px;
+	}
+	.fwzi-menu .fwzi-btn {
+		margin-left: 5px;
+	}
+	.fwzi-slide-cpation .container {
+		padding: 0 50px;
+	}
+	.fwzi-increase-revenue .align-column-wrap {
+		display: block;
+	}
+	.fwzi-increase-revenue .column-item {
+		display: block;
+		width: auto;
+		padding-bottom: 50px;
+	}
+	.fwzi-increase-revenue .column-item:last-child {
+		padding-bottom: 0;
+	}
+	.process-item .process-icon-wrap:after {
+		display: none;
+	}
+	.plan-top-wrap {
+		padding: 40px 30px 38px;
+	}
+	.fwzi-seo-books .row {
+		margin: 0 -15px;
+	}
+	.fwzi-seo-books [class*="col-"] {
+		padding: 0 15px;
+	}
+	.books-item {
+		padding: 30px 0 30px 30px;
+		margin-bottom: 30px;
+	}
+	.slider-wrap {
+		padding-left: 0;
+	}
+	.left-sidebar .fwzi-primary {
+		float: none;
+		padding-left: 15px;
+	}
+	.fwzi-primary, .fwzi-primary.primary-spacer-two {
+		padding-right: 15px;
+	}
+	.fwzi-secondary {
+		padding-top: 50px;
+	}
+	.fwzi-widget:first-child .widget-title {
+		padding-bottom: 26px;
+		line-height: 1.42857;
+	}
+	/* Fwzi Home V3 Page CSS */
+	.banner-caption-wrap {
+    z-index: 1;
+    width: 50%;
+    padding-left: 15px;
+	}
+	.fwzi-banner-caption .fwzi-image {
+    width: 60%;
+	}
+	.fwzi-banner {
+    height: 630px;
+  }
+  .banner-caption-wrap h1 {
+    font-size: 40px;
+  }
+	/* Fwzi Case Studies Details 2 Page CSS */
+	.marketing-info {
+		padding-right: 50px;
+	}
+	.advertising-item {
+		padding: 40px;
+	}
+	.growth-points-style-two .growth-point {
+		padding: 50px 25px;
+		font-size: 14px;
+	}
+	.growth-points-style-two .growth-point img {
+		display: block;
+		margin: 0 auto 15px;
+	}
+	.revenue-style-four .revenue-info {
+		padding-left: 0;
+	}
+	/* Fwzi Resource Page CSS */
+	.books-style-two .books-item {
+    padding: 30px 0 30px 30px;
+    width: 650px;
+    display: block;
+    margin: 0px auto 30px;
+	}
+	.books-style-two .book-info {
+		padding: 0 0 0 25px;
+	}
+	.books-style-two .book-author {
+		margin-top: 5px;
+	}
+	/* Fwzi Resource Details Page CSS */
+	.book-detail-wrap .fwzi-image {
+		float: none;
+		text-align: center;
+	}
+	.book-detail {
+		clear: both;
+		padding: 50px 0 0;
+	}
+	/* Fwzi FAQ Page CSS */
+	.fwzi-faq {
+		padding-top: 0;
+	}
+	/* Fwzi Contact Us Page CSS */
+	.fwzi-map {
+		height: 450px;
+	}
+	/* Fwzi Error Page CSS */
+	.error-wrap {
+		padding: 0 50px;
+	}
+	.error-wrap h1 {
+		font-size: 36px;
+	}
+	.revenue-info {
+    padding-right: 60px !important;
+	}
+	.fwzi-style-two-revenue .revenue-info {
+    padding-left: 55px !important;
+    padding-right: 0px !important;
+	}
+	.fwzi-pricebox-padding .vc_column-inner {
+    padding: 0 15px !important;
+	}
+
+}
+@media screen and (max-width:1024px) {
+	.fwzi-growth-section .growth-point-space {
+    padding: 15px;
+	}
+	.fwzi-style-two-revenue .revenue-info {
+	  padding-left: 15px !important;
+	}
+	.row {
+    margin-right: 0px;
+    margin-left: 0px;
+	}
+}
+@media screen and (max-width:992px) {
+	.revenue-info {
+		padding-right: 0px !important;
+	}
+	.fwzi-seo-books .row {
+    margin: 0;
+	}
+}
+
+@media screen and (max-width:991px) {
+	/* Fwzi Normal CSS */
+	.swiper-container {
+		height: 700px;
+	}
+	.is-sticky .fwzi-header {
+		padding: 30px 0;
+	}
+	.fwzi-header {
+		padding: 40px 0;
+		position: relative;
+	}
+	.fwzi-brand {
+		padding: 0;
+	}
+	.fwzi-menu {
+		display: none;
+		position: absolute;
+		top: 100%;
+		left: 0;
+		right: 0;
+		width: 750px;
+		height: 50vh;
+		margin: 0 auto;
+		background: #f3f3f3;
+		padding: 0 25px 25px;
+		overflow: auto;
+		border-top: 1px solid #e3e3e3;
+		-webkit-box-shadow: 0 3px 4px rgba(0, 0, 0, 0.2);
+		-ms-box-shadow: 0 3px 4px rgba(0, 0, 0, 0.2);
+		box-shadow: 0 3px 4px rgba(0, 0, 0, 0.2);
+		z-index: 2;
+	}
+	.fwzi-menu .nav {
+		float: none;
+	}
+	nav.menu-main-menu-container {
+    float: none;
+    display: block;
+	}
+	.fwzi-menu .nav > li {
+		float: none;
+		overflow: hidden;
+		clear: both;
+		border-bottom: 1px solid #dcdcdc;
+	}
+	.nav > li > a {
+		padding: 12px 0;
+	}
+	.fwzi-menu .nav > li > .dropdown-menu {
+		border-bottom: none;
+	}
+	.fwzi-menu .dropdown-menu {
+		display: none;
+		position: static;
+		min-width: 100%;
+		padding: 0 0 0 15px;
+		border-bottom: 1px solid #dcdcdc;
+		opacity: 1;
+		visibility: visible;
+		-webkit-box-shadow: none;
+		-ms-box-shadow: none;
+		box-shadow: none;
+		-webkit-transition: none;
+		-ms-transition: none;
+		transition: none;
+		-webkit-transform: none;
+		-ms-transform: none;
+		transform: none;
+	}
+	.fwzi-menu .dropdown-menu:before {
+		display: none;
+	}
+	.fwzi-menu .dropdown-menu > li {
+		padding: 0;
+	}
+	.fwzi-menu .fwzi-btn {
+		margin: 25px 0;
+	}
+	.fwzi-toggle {
+		float: right;
+		display: block;
+	}
+	.banner-caption-wrap {
+		margin: 0 auto;
+		text-align: center;
+		z-index: 1;
+		width: 520px !important;
+    padding: 0;
+	}
+	.fwzi-banner-caption .fwzi-image {
+		display: none;
+	}
+	.analyze-form {
+		width: auto;
+	}
+	.fwzi-slide-cpation .container {
+		padding: 0;
+	}
+	.slide-cpation-wrap {
+		width: auto;
+	}
+	.fwzi-slide-cpation.right .slide-cpation-wrap {
+		float: none;
+		width: auto;
+	}
+	.fwzi-slide-cpation.center .slide-cpation-wrap {
+		width: auto;
+	}
+	.slide-cpation-wrap br {
+		display: none;
+	}
+	.slide-cpation-wrap h2 {
+		font-size: 36px;
+		line-height: 45px;
+	}
+	.fwzi-slide-cpation.right .slide-cpation-wrap h2 {
+		font-size: 40px;
+	}
+	.slide-cpation-title {
+		padding-bottom: 30px;
+	}
+	.status-item h2, .counter-type {
+		font-size: 48px;
+		line-height: 58px;
+	}
+	.fwzi-process .fwzi-btns-group {
+		padding-bottom: 32px;
+	}
+	.process-item {
+		width: 50%;
+		padding-bottom: 30px;
+	}
+	.fwzi-optimization {
+		text-align: center;
+	}
+	.fwzi-optimization .align-column-wrap {
+		display: block;
+		padding: 0 0 50px;
+		margin-bottom: 50px;
+		border-bottom: 1px solid #ececec;
+	}
+	.fwzi-optimization .align-column-wrap:last-child {
+		margin-bottom: 0;
+		border-bottom: none;
+	}
+	.fwzi-optimization .column-item, .feature-info .column-item, .fwzi-growth-points .column-item, .fwzi-growth-info .column-item, .fwzi-marketing-growth .column-item, .fwzi-404-error .column-item {
+		display: block;
+		width: auto;
+		padding-bottom: 50px;
+	}
+	.fwzi-optimization .column-item:last-child, .feature-info .column-item:last-child, .fwzi-growth-points .column-item:last-child, .fwzi-growth-info .column-item:last-child, .fwzi-marketing-growth .column-item:last-child, .fwzi-404-error .column-item:last-child {
+		padding-bottom: 0;
+	}
+	.fwzi-optimization .text-right {
+		text-align: center;
+	}
+	.optimization-info {
+		padding-right: 0;
+	}
+	.second-child .optimization-info {
+		padding-left: 0;
+	}
+	.feature-info .align-column-wrap, .fwzi-marketing-growth .align-column-wrap, .fwzi-404-error .align-column-wrap {
+		display: block;
+	}
+	.feature-info-wrap, .feature-info-wrap .fwzi-btns-group {
+		text-align: center;
+	}
+	.page-title-wrap, .page-title-style-three .page-title-wrap {
+		padding: 100px 0;
+	}
+	.page-title-wrap h1 {
+		font-size: 34px;
+		line-height: 40px;
+	}
+	.fwzi-free-audit .slider-wrap {
+		padding-top: 50px;
+	}
+	.fwzi-masonry[data-space] {
+		margin: 0 -15px;
+	}
+	.masonry-item {
+		width: 50%;
+	}
+	.fwzi-growth-points .align-column-wrap, .fwzi-growth-info .align-column-wrap {
+		display: block;
+	}
+	.growth-point:first-child {
+		padding-top: 0;
+	}
+	.doughnut-graph {
+		width: 400px;
+	}
+	.fwzi-footer {
+		padding-bottom: 50px;
+	}
+	.fwzi-footer [class*="col-"] {
+		padding-bottom: 50px;
+	}
+	.useful-links ul li {
+		width: 50%;
+	}
+	/* Fwzi Home V3 Page CSS */
+	.fwzi-banner {
+		height: 700px;
+	}
+	.banner-caption-wrap h1 {
+		font-size: 40px;
+	}
+	.feature-links .nav-tabs > li > a {
+		min-width: 135px;
+	}
+	/* Fwzi About Page CSS */
+	.revenue-style-two .revenue-info h2 {
+		font-size: 26px;
+		line-height: 36px;
+	}
+	.difference-wrap {
+		padding: 50px 25px;
+	}
+	.difference-wrap h2 {
+		font-size: 24px;
+		line-height: 36px;
+	}
+	/* Fwzi Services Details 1 Page CSS */
+	.fwzi-optimization.optimization-style-two .align-column-wrap {
+		padding-bottom: 50px;
+	}
+	.optimization-style-two .section-title-wrap {
+		padding-bottom: 80px;
+	}
+	/* Fwzi Services Details 2 Page CSS */
+	.advertising-item {
+		padding: 40px 0;
+		border: none;
+	}
+	.advertising-item.last-row-item {
+		border-bottom-color: #f5f5f5;
+	}
+	/* Fwzi Case Studies Details 2 Page CSS */
+	.marketing-info {
+		padding: 0;
+	}
+	.fwzi-growth-info .text-right {
+		text-align: left;
+	}
+	.growth-points-style-two .growth-point {
+		min-height: 220px;
+		padding-top: 50px;
+	}
+	/* Fwzi Resource Details Page CSS */
+	.book-detail-wrap, .book-detail-wrap .fwzi-image {
+		padding: 50px;
+	}
+	/* Fwzi Contact Us Page CSS */
+	.contactus-detail {
+		padding: 50px 0 0 !important;
+	}
+	/* Fwzi Error Page CSS */
+	.fwzi-404-error {
+		padding: 130px 0 152px;
+		text-align: center;
+	}
+	.fwzi-404-error .column-item:last-child {
+		border-left: none;
+	}
+	.fwzi-404-error .fwzi-icon {
+		padding: 0;
+	}
+	.error-wrap {
+		padding: 0;
+	}
+	.score-item {
+    width: 173px;
+	}
+	.feature-info .tab-content [class*="vc_col-"] {
+    width: 100%;
+    text-align: center !important;
+	}
+	.feature-info .tab-content [class*="vc_col-"] .wpb_text_column {
+		text-align: center !important;
+	}
+	.row {
+    margin-right: -15px;
+    margin-left: -15px;
+	}
+	.fwzi-style-two-revenue .revenue-info .score-item {
+    width: 165px;
+	}
+	section.fwzi-faq-wrap {
+    padding: 0;
+	}
+	section.fwzi-members-single .team-single-detail {
+    padding: 0;
+	}
+	.feature-info h2 {
+    text-align: center !important;
+	}
+	.fwzi-place-section .place-inner-row {
+    padding: 0 0 50px !important;
+	}
+}
+
+@media screen and (max-width:899px) {
+	/* Fwzi Normal CSS */
+	.fwzi-slide-cpation .container {
+		padding: 0 50px;
+	}
+	/* Fwzi Contact Us Page CSS */
+	.fwzi-map {
+		height: 400px;
+	}
+	.fwzi-contact-wrap {
+		padding: 100px 0;
+	}
+}
+
+@media screen and (max-width:799px) {
+	/* Fwzi Normal CSS */
+	.container {
+		padding: 0 25px;
+	}
+	.fwzi-menu {
+		width: 700px;
+	}
+	.fwzi-footer [class*="col-"] {
+    min-height: auto;
+	}
+	.fwzi-mid-wrap {
+    padding-top: 50px;
+    padding-bottom: 50px;
+	}
+}
+
+@media screen and (max-width:768px) {
+	.revenue-info {
+		padding-right: 0px !important;
+		padding-bottom: 30px;
+	}
+	.score-item {
+    width: 165px;
+	}
+	.fwzi-style-two-revenue .revenue-info .score-item {
+    width: 152px;
+	}
+	.fwzi-footer [class*="col-"] {
+    min-height: 290px;
+	}
+	section.fwzi-free-audit .no-pad-left, section.fwzi-free-audit .no-pad-right,
+	section.fwzi-seo-package .no-pad-left, section.fwzi-seo-package .no-pad-right,
+	section.fwzi-download-request .no-pad-left, section.fwzi-download-request .no-pad-right {
+    padding: 0;
+	}
+	.padding-custom {
+		padding: 50px 0 !important;
+	}
+	section.fwzi-seo-package .col-sm-6,
+	section.fwzi-free-audit .col-sm-6,
+	section.fwzi-download-request .col-sm-6 {
+    width: 100%;
+	}
+}
+
+@media screen and (max-width:767px) {
+	/* Fwzi Normal CSS */
+	h1, .h1 {
+		font-size: 30px;
+	}
+	h2, .h2 {
+		font-size: 26px;
+	}
+	h3, .h3 {
+		font-size: 20px;
+	}
+	blockquote {
+		padding: 10px 0 15px 15px;
+	}
+	blockquote:before {
+		top: 0;
+		left: 0;
+	}
+	textarea, textarea.form-control {
+		height: 130px;
+	}
+	.row {
+		margin: 0;
+	}
+	.navbar-nav .open .dropdown-menu > li > a {
+		padding: 12px 0;
+	}
+	.nav-tabs {
+		margin-bottom: 25px;
+	}
+	.swiper-container {
+		height: 350px;
+	}
+	.swiper-button-prev {
+		left: 20px;
+	}
+	.swiper-button-prev:before, .swiper-button-next:before {
+		left: 20px;
+		font-size: 36px;
+	}
+	.swiper-button-next {
+		right: 20px;
+	}
+	.mfp-img-mobile .mfp-image-holder {
+		padding: 15px;
+	}
+	.mfp-close, .mfp-iframe-holder .mfp-close {
+		top: 0;
+		right: 0;
+		width: 35px;
+		height: 35px;
+		background: rgba(0, 0, 0, 0.6);
+	}
+	.mfp-close:active {
+		top: 0;
+	}
+	.mfp-close:before, .mfp-close:after {
+		top: 9px;
+		left: 16px;
+	}
+	.mfp-arrow-left {
+		left: 25px;
+	}
+	.mfp-arrow-right {
+		right: 38px;
+	}
+	.carousel {
+		padding: 0 20px 35px;
+	}
+	.carousel-indicators {
+		padding-top: 10px;
+	}
+	.carousel-indicators li, .carousel-indicators li.active {
+		margin-bottom: 14px;
+	}
+	.panel-content {
+		padding-bottom: 15px;
+	}
+	.panel-title a {
+		padding: 20px 40px 20px 0;
+		font-size: 16px;
+	}
+	.fwzi-topbar {
+		display: none;
+		padding-top: 20px;
+		text-align: center;
+	}
+	.fwzi-topbar .pull-left {
+		width: 100%;
+		padding-bottom: 15px;
+	}
+	.fwzi-topbar .pull-right {
+		width: 100%;
+	}
+	.fwzi-topbar ul li {
+		float: none;
+		padding: 10px 0;
+		border-top: 1px solid rgba(255, 255, 255, 0.08);
+		border-right: none;
+	}
+	.fwzi-topbar .fwzi-social {
+		padding: 0;
+	}
+	.fwzi-topbar .fwzi-social a {
+		margin: 0 1px 6px;
+	}
+	.fwzi-search-box {
+		width: 100%;
+	}
+	.fwzi-header, .is-sticky .fwzi-header {
+		padding: 30px 0;
+	}
+	.fwzi-menu {
+		width: auto;
+	}
+	.slide-cpation-wrap {
+		padding: 0 35px;
+	}
+	.fwzi-slide-cpation .container {
+		padding: 0 25px;
+	}
+	.slide-cpation-wrap h2 {
+		font-size: 26px;
+		line-height: 36px;
+	}
+	.fwzi-slide-cpation.right .slide-cpation-wrap h2 {
+		font-size: 26px;
+	}
+	.fwzi-slide-cpation.right .slide-cpation-wrap .fwzi-btn {
+		margin-left: 10px;
+	}
+	.fwzi-slide-cpation.center .slide-cpation-wrap .fwzi-btn {
+		margin: 0 5px;
+	}
+	.slide-cpation-wrap .fwzi-btn {
+		min-width: 150px;
+		padding: 13px 20px 11px;
+		margin-right: 10px;
+	}
+	.slide-cpation-title {
+		padding-bottom: 15px;
+	}
+	.process-scetion,
+	.fwzi-revenue-section,
+	.fwzi-team-section,
+	.fwzi-resource-section,
+	.fwzi-place-section,
+	.fwzi-growth-section,
+	.fwzi-cs-section {
+		padding: 50px 0 !important;
+	}
+	.archive-spacing {
+		padding: 50px 0 10px;
+	}
+	.fwzi-chart {
+    display: inline-block;
+    width: 100% !important;
+	}
+	.fwzi-chart canvas {
+    margin: 0 auto;
+	}
+	.fwzi-service-section {
+	  padding: 0 0 30px;
+	}
+	.fwzi-btn-section {
+	  padding: 0 0 50px;
+	}
+	.fwzi-main-title-section {
+	  padding: 50px 0 0px !important;
+	}
+	.fwzi-place-section {
+		text-align: center !important;
+	}
+	.fwzi-place-section .place-inner-row {
+		padding: 0 0 20px !important;
+	}
+	.fwzi-place-section .vc_align_left,
+	.fwzi-place-section .vc_align_right {
+		text-align: center !important;
+	}
+	.padding-default,
+	.padding-xs,
+	.padding-sm,
+	.padding-md,
+	.padding-lg,
+	.padding-xl {
+	  padding-top: 50px;
+	  padding-bottom: 50px;
+	}
+	.pricing-section {
+  	padding: 0px !important;
+	}
+	.section-title-wrap {
+		width: auto;
+		padding-bottom: 50px;
+	}
+	.section-title-wrap h2, .optimization-style-two .section-title-wrap h2, .fwzi-free-audit .section-title-wrap h2, .fwzi-advertising .section-title-wrap h2 {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.section-title, .fwzi-seo-score .section-title, .fwzi-marketing-growth .section-title {
+		padding-bottom: 8px;
+	}
+	.section-subtitle:after {
+		bottom: -10px;
+	}
+	.feature-item {
+		padding: 0 0 30px;
+	}
+	.feature-item .fwzi-icon {
+		padding-bottom: 20px;
+	}
+	.feature-title {
+		padding-bottom: 10px;
+	}
+	.fwzi-seo-score .section-title-wrap h2 {
+		font-size: 30px;
+	}
+	.fwzi-increase-revenue .column-item, .feature-info .column-item, .fwzi-tutorial .column-item, .fwzi-growth-points .column-item, .fwzi-growth-info .column-item, .fwzi-marketing-growth .column-item {
+		padding-bottom: 20px;
+	}
+	.revenue-title {
+		padding-bottom: 10px;
+	}
+	.revenue-title br {
+		display: none;
+	}
+	.revenue-score {
+		padding-top: 5px;
+	}
+	.score-item {
+		width: 50%;
+	}
+	.score-number {
+		padding-bottom: 5px;
+	}
+	.fwzi-projects {
+		padding: 0;
+		text-align: center;
+	}
+	.fwzi-projects .section-title-wrap, .fwzi-blog .section-title-wrap, .fwzi-clients .section-title-wrap, .fwzi-members .section-title-wrap, .fwzi-seo-books .section-title-wrap, .fwzi-marketing-growth .section-title-wrap, .fwzi-seo-books.books-style-two .section-title-wrap {
+		padding-bottom: 50px;
+	}
+	.project-item {
+		margin-bottom: 25px;
+	}
+	.project-title {
+		padding: 25px;
+	}
+	.fwzi-btns-group {
+		padding-top: 10px;
+	}
+	.fwzi-status [class*="col-"] {
+		float: left;
+		width: 50%;
+	}
+	.status-wrap, .status-style-two .status-wrap {
+		padding: 50px 0 30px;
+	}
+	.status-item {
+		padding-bottom: 20px;
+	}
+	.status-title, .status-style-two .status-title {
+		padding-top: 5px;
+	}
+	.fwzi-process .fwzi-btns-group {
+		padding: 15px 0 0;
+	}
+	.process-item {
+		padding-bottom: 10px;
+	}
+	.process-info {
+		padding-top: 25px;
+	}
+	.fwzi-plans, .fwzi-plans.plans-style-two {
+		padding: 50px 0 25px;
+	}
+	.fwzi-plans .row {
+		margin: 0;
+	}
+	.fwzi-plans [class*="col-"] {
+		padding: 0;
+	}
+	.plan-item {
+		margin-bottom: 25px;
+	}
+	.plan-top-wrap {
+		padding: 30px;
+	}
+	.plan-info {
+		padding: 30px 25px;
+	}
+	.plan-info ul li {
+		padding-bottom: 25px;
+	}
+	.plan-info .fwzi-btn {
+		margin-top: 5px;
+	}
+	.testimonial-wrap p {
+		font-size: 18px;
+		line-height: 34px;
+	}
+	.testimonial-wrap {
+		padding: 0;
+	}
+	.testimonial-wrap .section-title-wrap h2 {
+		font-size: 26px;
+	}
+	.testimonial-wrap .section-title-wrap {
+		padding-bottom: 5px;
+	}
+	.testimonial-wrap .fwzi-slider p {
+		font-size: 24px;
+		line-height: 36px;
+	}
+	.testimonial-wrap .fwzi-slider .fwzi-image {
+		padding-bottom: 15px;
+	}
+	.fwzi-blog {
+		padding: 0;
+		text-align: center;
+	}
+	.fwzi-blog .blog-item {
+		margin-bottom: 25px;
+		text-align: left;
+		width: 370px;
+	}
+	.blog-item {
+		margin-bottom: 25px;
+	}
+	.fwzi-callout, .fwzi-callout .text-right {
+		text-align: center;
+	}
+	.callout-title {
+		padding-bottom: 20px;
+	}
+	.fwzi-services {
+		padding: 50px 0 0;
+	}
+	.service-item {
+		padding: 30px 25px;
+		margin-bottom: 25px;
+	}
+	.learn-more {
+		padding-top: 10px;
+	}
+	.fwzi-optimization .align-column-wrap {
+		padding-bottom: 30px;
+		margin-bottom: 30px;
+	}
+	.fwzi-optimization .column-item {
+		padding-bottom: 30px;
+	}
+	.optimization-info .fwzi-btn {
+		margin-top: 10px;
+	}
+	.optimization-title {
+		padding-bottom: 10px;
+	}
+	.optimization-title br {
+		display: none;
+	}
+	.revenue-style-two .score-item h3 {
+		font-size: 80px;
+		line-height: 60px;
+	}
+	.revenue-style-two .revenue-score {
+		padding-top: 5px;
+	}
+	.revenue-style-two .revenue-title {
+		padding-bottom: 10px;
+	}
+	.search-result-wrap {
+		padding: 30px 30px 15px;
+	}
+	.search-result-wrap ul {
+		padding-top: 10px;
+	}
+	.search-result-title {
+		padding-bottom: 10px;
+	}
+	.search-result-title br {
+		display: none;
+	}
+	.fwzi-members {
+		padding: 0px;
+		text-align: center;
+	}
+	.member-item {
+		padding-bottom: 25px;
+	}
+	.fwzi-seo-books {
+		padding: 50px 0 25px;
+	}
+	.fwzi-seo-books .section-title-wrap h2 {
+		font-size: 30px;
+	}
+	.books-item {
+		padding: 25px 0 25px 25px;
+		margin-bottom: 25px;
+	}
+	.book-info {
+		padding: 0 0 0 25px;
+	}
+	.book-info h3 {
+		font-size: 20px;
+	}
+	.book-info-wrap {
+		padding-right: 25px;
+	}
+	.book-title {
+		padding-bottom: 10px;
+	}
+	.book-author {
+		padding-right: 25px;
+		margin-top: 5px;
+	}
+	.fwzi-free-audit form p {
+		line-height: 24px;
+	}
+	.fwzi-free-audit input[type="submit"] {
+		margin-top: 15px;
+	}
+	.fwzi-free-audit .section-title-wrap {
+		padding-bottom: 40px;
+	}
+	.fwzi-free-audit .section-title, .fwzi-free-audit .section-subtitle {
+		padding-bottom: 10px;
+	}
+	.slider-wrap, .fwzi-free-audit .slider-wrap {
+		padding-top: 30px;
+	}
+	.testimonial-item-wrap {
+		padding: 35px;
+	}
+	.testimonial-item-wrap:before {
+		left: 20px;
+		top: 40px;
+	}
+	.page-title-wrap {
+		padding: 90px 0;
+	}
+	.page-title-style-two .page-title-wrap, .page-title-style-three .page-title-wrap {
+		padding: 70px 0;
+	}
+	.fwzi-masonry, .fwzi-masonry[data-space] {
+		margin: 0;
+	}
+	.fwzi-masonry[data-item] .masonry-item {
+		width: 100%;
+	}
+	.fwzi-masonry[data-space] .masonry-item {
+		margin: 0 0 25px;
+	}
+	.fwzi-masonry .project-item {
+		margin-bottom: 0;
+		width: auto;
+	}
+	.masonry-filters ul {
+		padding-bottom: 20px;
+	}
+	.masonry-filters ul li {
+		padding: 0 10px 10px;
+	}
+	.masonry-item {
+		width: 100%;
+		margin: 0 0 25px;
+	}
+	.fwzi-marketing-growth {
+		padding-top: 50px;
+	}
+	.growth-points-wrap {
+		padding-right: 0;
+	}
+	.fwzi-growth-info, .fwzi-growth-info.growth-info-style-two, .fwzi-growth-share, .fwzi-increase-revenue.revenue-style-four {
+		padding: 50px 0 40px;
+	}
+	.fwzi-growth-info h2 {
+		line-height: 36px;
+	}
+	.growth-title, .fwzi-growth-info p {
+		padding-bottom: 10px;
+	}
+	.growth-point {
+		padding: 25px 0 15px;
+	}
+	.growth-point:last-child {
+    padding-bottom: 40px;
+	}
+	.growth-point-info {
+		padding-left: 25px;
+	}
+	.growth-point-title {
+		padding-bottom: 10px;
+	}
+	.fwzi-more-posts [class*="col-"] {
+		float: left;
+		width: 33.33333333%;
+	}
+	.left-sidebar .fwzi-primary {
+		padding: 0;
+	}
+	.fwzi-secondary {
+		padding-top: 50px;
+	}
+	.blog-info {
+		padding-top: 25px;
+	}
+	.blog-title-wrap h2 {
+		font-size: 24px;
+	}
+	.blog-bottom-links {
+		margin-top: 5px;
+	}
+	.fwzi-pagination {
+		padding-top: 20px;
+	}
+	.fwzi-projects .fwzi-pagination {
+		padding-top: 0px;
+	}
+	.widget-title, .fwzi-widget:first-child .widget-title, .widget-tags .widget-title {
+		padding-bottom: 15px;
+	}
+	.fwzi-widget {
+		padding-bottom: 25px;
+		margin-bottom: 25px;
+	}
+	.fwzi-widget.widget-categories {
+		padding-bottom: 25px;
+	}
+	.fwzi-widget.widget-recent-post {
+		padding-bottom: 5px;
+	}
+	.fwzi-widget.widget-archives {
+		padding-bottom: 10px;
+		margin-bottom: 25px;
+	}
+	.widget-tags a {
+		margin-bottom: 8px;
+	}
+	.fwzi-footer {
+		padding: 50px 0 20px;
+	}
+	.fwzi-footer p {
+		padding-bottom: 10px;
+	}
+	.fwzi-footer [class*="col-"] {
+		padding-bottom: 30px;
+	}
+	.footer-column-title {
+		padding-bottom: 10px;
+	}
+	.fwzi-newsletter form {
+		padding-bottom: 14px;
+	}
+	.fwzi-copyright {
+		padding: 40px 0;
+		text-align: center;
+	}
+	.fwzi-copyright .pull-left {
+		width: 100%;
+		padding-bottom: 10px;
+	}
+	.fwzi-copyright .pull-right {
+    width: 100%;
+    float: none !important;
+    text-align: center;
+	}
+	/* Fwzi Home V2 Page CSS */
+	.testimonial-style-two .fwzi-container {
+		width: auto;
+	}
+	.testimonial-style-two .testimonial-wrap {
+		padding: 0;
+	}
+	.testimonial-style-two .quote-author {
+		padding-top: 0;
+	}
+	/* Fwzi Home V3 Page CSS */
+	.fwzi-banner {
+		height: 400px;
+	}
+	.banner-caption-wrap {
+		width: auto !important;
+	}
+	.banner-caption-wrap p {
+		font-size: 14px;
+		line-height: 26px;
+	}
+	.banner-caption-wrap h1 {
+		font-size: 30px;
+		line-height: 36px;
+	}
+	.banner-caption-title {
+		padding-bottom: 10px;
+	}
+	.analyze-form {
+		padding-top: 10px;
+	}
+	.fwzi-services.services-style-two {
+		padding-bottom: 0;
+	}
+	.feature-links .nav-tabs {
+		display: block;
+	}
+	.feature-links .nav-tabs > li {
+		width: 33.33333333%;
+		border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+	}
+	.feature-links .nav-tabs > li:last-child {
+		border-right: 1px solid rgba(255, 255, 255, 0.08);
+	}
+	.feature-links .nav-tabs > li > a {
+		min-width: 10px;
+		padding: 30px 20px 10px;
+	}
+	.feature-info .tab-pane .fwzi-image img {
+		width: 150px;
+	}
+	.feature-info-wrap p {
+		padding-bottom: 10px;
+	}
+	.feature-info-wrap h2 {
+		font-size: 26px;
+	}
+	.feature-info-wrap .feature-title {
+		padding-bottom: 10px;
+	}
+	.fwzi-callout.callout-style-four h3 {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.callout-subtitle {
+		padding-bottom: 20px;
+	}
+	/* Fwzi Services Details 1 Page CSS */
+	.optimization-style-two .section-title, .fwzi-advertising .section-title {
+		padding-bottom: 8px;
+	}
+	.optimization-style-two .section-title-wrap {
+		padding-bottom: 40px;
+	}
+	.fwzi-services.services-style-three {
+		padding: 50px 0 25px;
+	}
+	.services-style-three .service-item {
+		padding-bottom: 15px;
+	}
+	.fwzi-tutorial {
+		text-align: center;
+	}
+	.fwzi-tutorial .column-item:last-child {
+		padding-bottom: 0;
+	}
+	.fwzi-tutorial h2 {
+		font-size: 26px;
+		line-height: 36px;
+	}
+	/* Fwzi Services Details 2 Page CSS */
+	.fwzi-advertising .section-title-wrap {
+		padding-bottom: 30px;
+	}
+	.fwzi-advertising .fwzi-btns-group {
+		padding-top: 15px;
+	}
+	.fwzi-advertising .fwzi-btns-group .fwzi-btn {
+		padding: 14px 20px 11px;
+		margin-top: 10px;
+	}
+	.advertising-item {
+		padding: 25px 0 15px;
+	}
+	.advertising-item .fwzi-icon {
+		padding-bottom: 15px;
+	}
+	/* Fwzi Case Studies Details 2 Page CSS */
+	.fwzi-marketing-growth.marketing-growth-style-two {
+		padding-top: 50px;
+	}
+	.marketing-info .growth-title {
+		padding: 0 0 10px;
+	}
+	.marketing-info p {
+		padding-bottom: 10px;
+	}
+	.marketing-info h2 {
+		line-height: 30px;
+	}
+	.growth-points-style-two .growth-point {
+		min-height: 10px;
+		padding: 25px 25px 30px;
+	}
+	/* Fwzi Blog Details Page CSS */
+	.fwzi-unit-fix .blog-title {
+		padding-bottom: 10px;
+	}
+	.blog-image {
+		padding-bottom: 25px;
+	}
+	.blog-detail-wrap p {
+		padding-bottom: 15px;
+	}
+	.blog-detail-wrap h1, .blog-detail-wrap h2, .blog-detail-wrap h3, .blog-detail-wrap h4, .blog-detail-wrap h5, .blog-detail-wrap h6 {
+		padding-bottom: 10px;
+	}
+	.fwzi-blog-meta {
+		padding-bottom: 10px;
+	}
+	.fwzi-blog-share {
+		float: none;
+		width: auto;
+		padding-bottom: 15px;
+	}
+	.fwzi-blog-tags {
+		float: none;
+		width: auto;
+		padding-bottom: 7px;
+		text-align: left;
+	}
+	.fwzi-blog-tags ul li a {
+		margin-bottom: 8px;
+	}
+	.fwzi-blog-posts {
+		font-size: 14px;
+	}
+	.fwzi-author-info {
+		margin-top: 25px;
+	}
+	.comments-section {
+		padding: 20px 0 0;
+	}
+	.fwzi-comments-area .comments-title, .fwzi-blog-detail .comment-reply-title {
+		padding-bottom: 15px;
+	}
+	.fwzi-comments-area .comment-item {
+		padding-bottom: 25px;
+		margin-bottom: 25px;
+	}
+	.fwzi-comments-area .comment-main-area {
+		padding-top: 0;
+	}
+	.fwzi-comments-area .fwzi-comments-meta {
+		padding-bottom: 8px;
+	}
+	.fwzi-comments-area .fwzi-comments-meta .comments-date {
+		padding-left: 15px;
+	}
+	.fwzi-comments-area .comments li .children li {
+		padding-left: 25px;
+	}
+	.comments-reply {
+		font-size: 14px;
+	}
+	.fwzi-comment-form textarea {
+		height: 130px;
+	}
+	.form-submit {
+		padding-top: 0;
+	}
+	/* fwzi Entry Content Page CSS */
+  .entry-content dd {
+    margin-bottom: 10px;
+  }
+  .wp-caption {
+    max-width: 100%;
+    margin-bottom: 10px;
+  }
+  .entry-content .comment-list article, .entry-content .comment-list .pingback, .entry-content .comment-list .trackback {
+    padding: 20px 0;
+  }
+  .entry-content .comment-content ul, .entry-content .comment-content ol {
+    margin: 0 0 10px 0;
+  }
+  .entry-content .comment-metadata {
+    margin-bottom: 5px;
+  }
+  .entry-content .comment-list .comment-reply-link {
+    margin-top: 0;
+  }
+  .entry-content .comment-list .children {
+    padding-left: 0;
+  }
+  .fwzi-unit-fix .entry-content .comment-form {
+    padding-top: 0;
+  }
+  .fwzi-unit-fix .entry-content .comment-list article, .fwzi-unit-fix .entry-content .comment-list .pingback, .fwzi-unit-fix .entry-content .comment-list .trackback {
+    padding: 15px 0 20px;
+  }
+  /* Fwzi Resource Page CSS */
+  .fwzi-seo-books.books-style-two {
+  	padding-bottom: 25px;
+  }
+	.books-style-two .books-item {
+		padding: 25px 0 25px 25px;
+	}
+	/* Fwzi Resource Details Page CSS */
+	.book-detail-wrap, .book-detail-wrap .fwzi-image {
+		padding: 25px;
+	}
+	.book-detail {
+		padding-top: 20px;
+	}
+	.book-detail p, .book-feature-title {
+		padding-bottom: 15px;
+	}
+	.book-detail h2 {
+		font-size: 26px;
+		line-height: 36px;
+	}
+	.book-detail .book-author {
+		margin-top: 10px;
+	}
+	.book-features {
+		padding-top: 5px;
+	}
+	.book-features ul li {
+		float: none;
+		width: auto;
+	}
+	.fwzi-download-request input[type="submit"] {
+		margin-top: 5px;
+	}
+	.fwzi-download-request .section-title-wrap {
+		padding-bottom: 40px;
+	}
+	.fwzi-download-request .section-title-wrap h2 {
+		font-size: 24px;
+		line-height: 30px;
+	}
+	.fwzi-download-request .section-title {
+		padding-bottom: 10px;
+	}
+	.slider-wrap.slider-style-two .fwzi-testimonial {
+		padding: 25px;
+	}
+	.slider-wrap.slider-style-two .fwzi-testimonial p {
+		line-height: 26px;
+	}
+	.slider-wrap.slider-style-two .fwzi-testimonial .owl-dots {
+		padding-top: 5px;
+	}
+	.slider-wrap.slider-style-two .quote-author {
+		padding-bottom: 10px;
+	}
+	/* Fwzi FAQ Page CSS */
+	.fwzi-faq-wrap {
+		padding: 30px 0 50px;
+	}
+	/* Fwzi SEO Quotes Page CSS */
+	.fwzi-seo-package .section-title-wrap {
+		padding-bottom: 40px;
+	}
+	.fwzi-seo-package input[type="submit"] {
+		margin-top: 10px;
+	}
+	/* Fwzi Contact Us Page CSS */
+	.fwzi-map {
+		height: 250px;
+	}
+	.fwzi-contact-wrap {
+		padding: 40px 0 30px;
+	}
+	.fwzi-contact-wrap h2 {
+		font-size: 22px;
+	}
+	.contact-form input[type="submit"] {
+		margin-top: 0;
+	}
+	.contactus-detail {
+		padding-top: 25px !important;
+	}
+	.contact-detail .contact-link {
+		margin-bottom: 10px;
+	}
+	.contact-detail .fwzi-social {
+		padding-left: 10px;
+	}
+	.contact-detail .fwzi-social a {
+		margin-right: 15px;
+	}
+	.contact-wrap-title, .contact-detail p {
+		padding-bottom: 10px;
+	}
+	/* Fwzi Error Page CSS */
+	.fwzi-404-error .column-item {
+		padding-bottom: 25px;
+	}
+	.error-wrap p {
+		font-size: 14px;
+		line-height: 26px;
+	}
+	.error-wrap h1 {
+		font-size: 30px;
+	}
+	.error-wrap .fwzi-btn {
+		margin-top: 10px;
+	}
+	.error-title {
+		padding-bottom: 10px;
+	}
+	.contact-form .no-pad-left {
+    padding-right: 0px !important;
+	}
+	.contact-form .no-pad-right {
+    padding-left: 0px !important;
+	}
+	.fwzi-footer form {
+    padding-bottom: 0px;
+  }
+  .fwzi-blog-section {
+	  padding: 50px 0 25px !important;
+	}
+	.widget_search form input[type="submit"] {
+    bottom: 26px;
+  }
+  .fwzi-footer [class*="col-"] {
+    min-height: auto;
+	}
+	section.fwzi-seo-package {
+    text-align: left;
+	}
+	.slide-cpation-wrap p {
+    margin: 0px 0 0;
+	}
+	.books-style-two .books-item {
+    width: auto;
+  }
+}
+
+@media screen and (max-width:599px) {
+	/* Fwzi Normal CSS */
+	.fwzi-btn-section [class*="vc_col-xs-6"] {
+    text-align: center;
+    width: 100% !important;
+    margin: 0 0 15px;
+	}
+	.slide-cpation-wrap h2 {
+		font-size: 22px;
+		line-height: 30px;
+	}
+	.fwzi-slide-cpation.right .slide-cpation-wrap h2 {
+		font-size: 22px;
+	}
+	.slide-cpation-wrap .fwzi-btn {
+		min-width: 140px;
+		padding: 12px 20px 10px;
+		margin-right: 5px;
+		font-size: 12px;
+	}
+	.slide-cpation-title {
+		padding-bottom: 10px;
+	}
+	.fwzi-slide-cpation.center .slide-cpation-wrap .fwzi-btn {
+		margin: 0 2px;
+	}
+	.fwzi-slide-cpation.right .slide-cpation-wrap .fwzi-btn {
+		margin-left: 5px;
+	}
+	.section-title-wrap h2, .optimization-style-two .section-title-wrap h2, .fwzi-free-audit .section-title-wrap h2, .fwzi-advertising .section-title-wrap h2 {
+		font-size: 26px;
+		line-height: 36px;
+	}
+	.fwzi-seo-score .section-title-wrap h2 {
+		font-size: 26px;
+	}
+	.revenue-info h2 {
+		font-size: 24px;
+	}
+	.fwzi-process .fwzi-btns-group {
+		padding-top: 0;
+	}
+	.process-item {
+		width: 100%;
+		padding: 0 0 10px;
+		margin: 0;
+	}
+	.process-info {
+		padding-top: 15px;
+	}
+	.optimization-info h2 {
+		font-size: 22px;
+		line-height: 30px;
+	}
+	.testimonial-wrap p {
+		font-size: 16px;
+		line-height: 30px;
+	}
+	.revenue-style-two .revenue-info h2 {
+		font-size: 22px;
+		line-height: 32px;
+	}
+	.revenue-style-two .score-item h3 {
+		font-size: 70px;
+		line-height: 60px;
+	}
+	.search-result-wrap h3 {
+		line-height: normal;
+	}
+	.testimonial-wrap .fwzi-slider p {
+		font-size: 20px;
+		line-height: normal;
+	}
+	.fwzi-seo-books .section-title-wrap h2 {
+		font-size: 26px;
+	}
+	.books-item {
+		padding: 25px;
+		text-align: center;
+	}
+	.books-item .fwzi-image {
+		float: none;
+	}
+	.book-info {
+		clear: both;
+		padding: 20px 0 0;
+	}
+	.book-info p {
+		line-height: 26px;
+	}
+	.book-info-wrap {
+		padding: 0 0 5px;
+	}
+	.book-author {
+		padding-right: 0;
+	}
+	.page-title-wrap {
+		padding: 70px 0;
+	}
+	.page-title-style-two .page-title-wrap, .page-title-style-three .page-title-wrap {
+		padding: 50px 0;
+	}
+	.page-title-wrap h1 {
+		font-size: 30px;
+		line-height: 36px;
+	}
+	.fwzi-growth-points {
+		text-align: center;
+	}
+	.fwzi-growth-info h2 {
+		font-size: 24px;
+		line-height: 30px;
+	}
+	.growth-point .fwzi-icon {
+		float: none;
+	}
+	.growth-point-info {
+		clear: both;
+		padding: 15px 0 0;
+	}
+	.fwzi-more-posts .more-posts-link span {
+		display: none;
+	}
+	.blog-title-wrap h2 {
+		font-size: 22px;
+	}
+	.fwzi-pagination a.prev, .fwzi-pagination a.next {
+		padding: 6px 14px;
+	}
+	/* Fwzi Home V3 Page CSS */
+	.banner-caption-wrap h1 {
+		font-size: 26px;
+	}
+	.analyze-form input[type="text"], .analyze-form input[type="email"] {
+		width: 70%;
+	}
+	.analyze-form input[type="submit"] {
+		width: 30%;
+	}
+	.feature-info-wrap h2 {
+		font-size: 22px;
+	}
+	.fwzi-callout.callout-style-four h3 {
+		font-size: 24px;
+		line-height: 32px;
+	}
+	.fwzi-callout.callout-style-four .callout-title {
+		padding-bottom: 10px;
+	}
+	.fwzi-callout.callout-style-four .fwzi-btn {
+		margin-bottom: 10px;
+	}
+	/* Fwzi Services Details 1 Page CSS */
+	.services-style-three .service-item {
+		text-align: center;
+	}
+	.services-style-three .service-item .fwzi-icon {
+		float: none;
+		display: inline-block;
+		vertical-align: middle;
+	}
+	.services-style-three .service-info {
+		clear: both;
+		padding: 15px 0 0;
+	}
+	/* Fwzi Services Details 2 Page CSS */
+	.advertising-item h4 {
+		font-size: 18px;
+	}
+	.advertising-title {
+		padding-bottom: 10px;
+	}
+	/* Fwzi Case Studies Details 2 Page CSS */
+	.marketing-info h2 {
+		font-size: 22px;
+		line-height: 30px;
+	}
+	/* Fwzi Blog Details Page CSS */
+	.fwzi-author-info {
+		padding: 25px;
+		text-align: center;
+	}
+	.author-avatar {
+		float: none;
+	}
+	.author-content {
+		clear: both;
+		padding: 15px 0 0;
+	}
+	.fwzi-comments-area .comment-image {
+		float: none;
+	}
+	.fwzi-comments-area .comment-main-area {
+		padding: 15px 0 0;
+	}
+	/* Fwzi Resource Page CSS */
+	.books-style-two .books-item {
+		padding: 25px;
+	}
+	.books-style-two .book-info {
+		padding: 20px 0 0;
+	}
+	/* Fwzi Resource Details Page CSS */
+	.book-detail h2 {
+		font-size: 22px;
+		line-height: 30px;
+	}
+	/* Fwzi Error Page CSS */
+	.error-wrap h1 {
+		font-size: 24px;
+	}
+	.fwzi-unit-fix .blog-title-wrap h6 {height: auto;line-height: 1.4;}
+}
+
+@media screen and (max-width:479px) {
+	/* Fwzi Normal CSS */
+	.swiper-button-prev, .swiper-button-next {
+		display: none;
+	}
+	.panel-title a {
+		font-size: 15px;
+	}
+	.fwzi-search-box {
+		padding: 15px;
+	}
+	.fwzi-search-box input[type="text"] {
+		width: 80%;
+	}
+	.fwzi-search-box input[type="submit"] {
+		width: 20%;
+	}
+	.slide-cpation-wrap {
+		padding: 0;
+	}
+	.slide-cpation-wrap .fwzi-btn {
+		min-width: 115px;
+		padding: 10px 15px 8px;
+	}
+	.section-title-wrap h2, .optimization-style-two .section-title-wrap h2, .fwzi-free-audit .section-title-wrap h2, .fwzi-advertising .section-title-wrap h2 {
+		font-size: 22px;
+		line-height: 30px;
+	}
+	.fwzi-seo-score .section-title-wrap h2 {
+		font-size: 24px;
+	}
+	.revenue-info h2 {
+		font-size: 22px;
+	}
+	.score-item {
+		float: none;
+		width: auto;
+	}
+	.fwzi-status [class*="col-"] {
+		float: none;
+		width: auto;
+	}
+	.plan-top-wrap h2 {
+		font-size: 60px;
+		line-height: 60px;
+	}
+	.plan-price sup {
+		top: -28px;
+	}
+	.plan-info ul {
+		font-size: 14px;
+	}
+	.plan-info ul li {
+		padding-bottom: 20px;
+	}
+	.testimonial-wrap .section-title-wrap h2, .fwzi-seo-books .section-title-wrap h2 {
+		font-size: 24px;
+	}
+	.testimonial-wrap p {
+		font-size: 15px;
+		line-height: 28px;
+	}
+	.fwzi-callout h3, .fwzi-callout.callout-style-two h3 {
+		font-size: 22px;
+	}
+	.search-result-wrap ul li {
+		padding-bottom: 15px;
+	}
+	.book-author .pull-left {
+		width: 100%;
+		padding-bottom: 10px;
+	}
+	.book-author .pull-right {
+		width: 100%;
+	}
+	.optimization-info h2 {
+		font-size: 20px;
+	}
+	.quote-author-info h4 {
+		font-size: 16px;
+	}
+	.masonry-filters {
+		font-size: 12px;
+	}
+	.doughnut-graph {
+		width: auto;
+	}
+	.blog-date-title-wrap {
+		padding-bottom: 0;
+	}
+	.blog-date-wrap {
+		float: none;
+	}
+	.blog-title-wrap {
+		clear: both;
+		padding: 10px 0 0;
+	}
+	.blog-title-wrap h2 {
+		font-size: 20px;
+	}
+	.page-title-wrap h1 {
+		font-size: 26px;
+		line-height: 32px;
+	}
+	.useful-links ul li {
+		float: none;
+		width: auto;
+	}
+	.fwzi-copyright {
+		font-size: 13px;
+	}
+	/* Fwzi Home V3 Page CSS */
+	.banner-caption-wrap h1 {
+		font-size: 22px;
+		line-height: 30px;
+	}
+	.analyze-form {
+		padding: 0;
+	}
+	.analyze-form input[type="text"], .analyze-form input[type="email"] {
+		width: 65%;
+		height: 50px;
+	}
+	.analyze-form input[type="submit"] {
+		width: 35%;
+		height: 50px;
+	}
+	/* Fwzi Home V3 Page CSS */
+	.feature-links .nav-tabs > li {
+		width: 50%;
+	}
+	.fwzi-callout.callout-style-four .fwzi-btn {
+		min-width: 100%;
+	}
+	/* Fwzi About Page CSS */
+	.revenue-style-two .revenue-info h2 {
+		line-height: 30px;
+	}
+	.fwzi-difference {
+		text-align: center;
+	}
+	.difference-item .fwzi-icon {
+		float: none;
+		padding-top: 0;
+	}
+	.difference-wrap h2 {
+		font-size: 22px;
+		line-height: 30px;
+	}
+	.difference-info {
+		padding: 10px 0 0;
+	}
+	/* Fwzi Resource Details Page CSS */
+	.book-detail-wrap {
+		padding-bottom: 15px;
+	}
+	.fwzi-download-request .section-title-wrap h2 {
+		font-size: 22px;
+	}
+	.fwzi-blog .blog-item .fwzi-image img {
+    width: 100%;
+	}
+	.fwzi-blog .blog-item {
+    width: auto;
+	}
+}
+
+@media screen and (max-width:359px) {
+	/* Fwzi Normal CSS */
+	.carousel-inner h5 {
+		font-size: 12px;
+	}
+	.fwzi-search-box input[type="text"] {
+		width: 78%;
+	}
+	.fwzi-search-box input[type="submit"] {
+		width: 22%;
+	}
+	.plan-top-wrap h2 {
+		font-size: 48px;
+		line-height: 48px;
+	}
+	.plan-price sup {
+		top: -19px;
+	}
+	.fwzi-callout h3, .fwzi-callout.callout-style-two h3 {
+		font-size: 20px;
+	}
+	.testimonial-wrap .fwzi-slider p {
+		font-size: 17px;
+	}
+	.testimonial-style-two .fwzi-slider h5 {
+		font-size: 12px;
+	}
+	.book-info h3 {
+		font-size: 18px;
+	}
+	.service-item {
+		padding: 30px 15px;
+	}
+	.blog-title-wrap h2 {
+		font-size: 18px;
+	}
+	/* Fwzi Home V3 Page CSS */
+	.feature-links .nav-tabs > li > a {
+		font-size: 12px;
+	}
+	/* Fwzi Resource Details Page CSS */
+	.book-detail h2 {
+		font-size: 20px;
+		line-height: 28px;
+	}
+}

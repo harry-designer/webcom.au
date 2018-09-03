@@ -1,0 +1,80 @@
+
+---Downloaded files---
+The import files for: Fawzi were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/harry/webcom
+Data file = C:\xampp\htdocs\harry\webcom/wp-content/uploads/2018/08/demo-content-import-file_2018-08-29__13-32-30.xml
+Widget file = C:\xampp\htdocs\harry\webcom/wp-content/uploads/2018/08/demo-widgets-import-file_2018-08-29__13-32-30.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+Codestar Framework files loaded.
+
+---Importing widgets---
+Main Widget Area : 
+
+Search - SEARCH - Imported
+Categories - CATEGORIES - Imported
+Fawzi: Recent Posts - No Title - Imported
+Archives - ARCHIVES - Imported
+Tag Cloud - POPULAR TAGS - Imported
+
+Footer Widget 1 : 
+
+Fawzi: Text Widget - ABOUT US - Imported
+
+Footer Widget 2 : 
+
+Fawzi: Text Widget - USEFUL LINKS - Imported
+
+Footer Widget 3 : 
+
+Fawzi: Text Widget - GET IN TOUCH - Imported
+
+Footer Widget 4 : 
+
+Fawzi: Text Widget - NEWSLETTER - Imported
+
+
+
+---pt-ocdi/after_import---
+
