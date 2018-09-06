@@ -264,14 +264,14 @@ div#vtheme-wrapper {
     border-color: #00BFA5;
 }
 .fwzi-btn-light-blue {
-    background-color: #00b4fa;
+    background-color: #00bfa5;
     color: #ffffff;
     border-color: transparent;
 }
 .fwzi-btn-light-blue:hover, .fwzi-btn-light-blue:focus {
     background-color: transparent;
-    color: #00b4fa;
-    border-color: #00b4fa;
+    color: #00bfa5;
+    border-color: #00bfa5;
 }
 .fwzi-btn-white {
     background-color: #fff;
@@ -1851,10 +1851,10 @@ h5.section-subtitle.no-after:after {
 }
 .project-links a:hover {
     background: rgba(255, 255, 255, 0.5);
-}
-.project-links .popup-image {
-    display: inline-block;
-}
+}.testimonial-style-two .fwzi-container
+ .project-links .popup-image {
+     display: inline-block;
+ }
 .fwzi-btns-group {
     padding-top: 20px;
     text-align: center;
@@ -2531,10 +2531,10 @@ section.fwzi-members-single .fwzi-social.rounded a:hover {
     background-size: cover;
 }
 .testimonial-style-two .fwzi-container {
-    width: 650px;
+    width: 1100px;
 }
 .testimonial-style-two .quote-author {
-    padding-top: 4px;
+    padding-top: 15px;
 }
 .testimonial-wrap .fwzi-slider .fwzi-image {
     padding-bottom: 26px;
@@ -2548,9 +2548,10 @@ section.fwzi-members-single .fwzi-social.rounded a:hover {
     border-radius: 100%;
 }
 .testimonial-wrap .fwzi-slider p {
-    font-size: 30px;
-    line-height: 45px;
+    font-size: 26px;
+    line-height: 40px;
 }
+
 .slider-wrap .testimonial-wrap .fwzi-slider p {
     font-size: 14px;
     color: #777777;
@@ -2774,7 +2775,7 @@ section.fwzi-members-single .fwzi-social.rounded a:hover {
     background: #f5f5f5;
 }
 .feature-links {
-    background: #00BFA5;
+    background: #3a5f71;
 }
 .feature-links .nav-tabs {
     display: inline-block;
@@ -2812,7 +2813,7 @@ section.fwzi-members-single .fwzi-social.rounded a:hover {
     position: absolute;
     bottom: 0;
     left: 50%;
-    border-top: 17px solid #00BFA5;
+    border-top: 17px solid #3a5f71 !important;
     border-left: 13px solid transparent;
     border-right: 13px solid transparent;
     content: "";
@@ -3050,7 +3051,7 @@ section.fwzi-members-single .fwzi-social.rounded a:hover {
     width: 70px;
     height: 70px;
     padding: 10px;
-    background: #00b4fa;
+    background: #00bfa5;
     color: rgba(44, 51, 63, 0.85);
     font-size: 35px;
     line-height: 50px;
@@ -3174,7 +3175,7 @@ section.fwzi-members-single .fwzi-social.rounded a:hover {
     min-width: 220px;
     padding: 15px 25px 13px;
     margin: 31px 0 25px;
-    background-color: #00b4fa;
+    background-color: #00bfa5;
     color: #ffffff;
     font-weight: 600;
     border-color: transparent;
@@ -3183,8 +3184,8 @@ section.fwzi-members-single .fwzi-social.rounded a:hover {
 }
 .fwzi-free-audit input[type="submit"]:hover, .fwzi-free-audit input[type="submit"]:focus {
     background-color: transparent;
-    color: #00b4fa;
-    border-color: #00b4fa;
+    color: #00bfa5;
+    border-color: #00bfa5;
 }
 .fwzi-free-audit .section-title-wrap {
     padding-bottom: 56px;
@@ -3319,10 +3320,10 @@ section.fwzi-members-single .fwzi-social.rounded a:hover {
     margin: 0;
 }
 .fwzi-advertising .fwzi-btns-group .fwzi-btn-white {
-    color: #00b4fa;
+    color: #00bfa5;
 }
 .fwzi-advertising .fwzi-btns-group .fwzi-btn-white:hover, .fwzi-advertising .fwzi-btns-group .fwzi-btn-white:focus {
-    background-color: #00b4fa;
+    background-color: #00bfa5;
     color: #ffffff;
     border-color: transparent;
 }
